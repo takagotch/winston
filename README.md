@@ -527,7 +527,7 @@ const category1 = containter.get('category1');
 category1.info('loggin to file and console transports');
 ```
 
-```
+```sh
 npm install winston
 yarn add winsotn
 npm test
